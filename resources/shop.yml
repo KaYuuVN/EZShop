@@ -1,0 +1,22 @@
+---
+messages:
+  title: "Shop Token"
+  label: "Shop Nè"
+  content: "Shop Nè"
+  sucess: "Thanks for Buying"
+  error_money: "You don't enough money"
+ #DEMO 
+shop:
+ 0:
+   category_name: "Cặc"
+   category_content: "Co Con Me gi nhin"
+   category_image: ""
+   category_item: 
+     item-0:
+       name: "AHIHI"
+       id: "1:2"
+       max_amount: "64"
+       money: "100"
+       image: ""
+
+...

@@ -1,0 +1,9 @@
+name: EZShop
+main: KaYuuVN\ShopKUI\Main
+version: 1.0.0
+api: 3.0.0
+depend:
+- EconomyAPI
+commands:
+ shop:
+  description: "shop"
